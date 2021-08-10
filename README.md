@@ -1,5 +1,7 @@
 # Clever-Chat
 
+Due to some security issues, I have not displayed the files. Will display on 10/8/2021.
+
 ![F4pEry6](https://nodei.co/npm/clever-chat.png?downloads=true&stars=true)
 
 <a href="https://www.npmjs.com/package/clever-chat">
