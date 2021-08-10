@@ -40,11 +40,11 @@ chat.chat('Hey! How are you!').then(reply => {
 - If any bugs found, please report it in the __Discord Server__ or __Github__.
 
 - A list for the options -
-  | Parameter | Type | Description
-  | --- | --- | --- |
-  | `name` | `string` | Sets chatbot's name
-  | `gender` | `string` | Sets chatbot's gender|
-  | `developer_name` | `string` | Sets chatbot's developer name
+| Parameter | Type | Description
+| --- | --- | --- |
+| `name` | `string` | Sets chatbot's name
+| `gender` | `string` | Sets chatbot's gender|
+| `developer_name` | `string` | Sets chatbot's developer name
 | `user` | `string` | Put an ID here|
 | `age` | `string` | Sets chatbot's age
 | `birthday` | `string` | Sets chatbot's birthday|
