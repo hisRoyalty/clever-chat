@@ -40,38 +40,38 @@ chat.chat('Hey! How are you!').then(reply => {
 - If any bugs found, please report it in the __Discord Server__ or __Github__.
 
 - A list for the options -
-| Parameter | Type | Description
-| --- | --- | --- |
-| `name` | `string` | Sets chatbot's name
-| `gender` | `string` | Sets chatbot's gender|
-| `developer_name` | `string` | Sets chatbot's developer name
-| `user` | `string` | Put an ID here|
-| `age` | `string` | Sets chatbot's age
-| `birthday` | `string` | Sets chatbot's birthday|
-| `birthplace` | `string` | Sets chatbot's birthplace
-| `birthyear` | `string` | Sets chatbot's birthyear|
-| `religion` | `string` | Sets chatbot's religion
-| `actor` | `string` | Sets chatbot's favourite actor|
-| `actress` | `string` | Sets chatbot's favourite actress
-| `artist` | `string` | Sets chatbot's favourite artist|
-| `author` | `string` | Sets chatbot's favourite author
-| `band` | `string` | Sets chatbot's favourite band|
-| `book` | `string` | Sets chatbot's favourite book
-| `color` | `string` | Sets chatbot's favourite colour
-| `food` | `string` | Sets chatbot's favourite food|
-| `movie` | `string` | Sets chatbot's favourite movie
-| `opera` | `string` | Sets chatbot's favourite opera|
-| `season` | `string` | Sets chatbot's favourite season
-| `show` | `string` | Sets chatbot's favourite show|
-| `song` | `string` | Sets chatbot's favourite song(ʙᴇᴛᴀ)
-| `sport` | `string` | Sets chatbot's favourite sport|
-| `subject` | `string` | Sets chatbot's favourite subject
-| `football` | `string` | Sets chatbot's favourite football team|
-| `celebrity` | `string` | Sets chatbot's favourite celebrity|
-| `chinesesign` | `string` | Sets chatbot's chinese sign
-| `family` | `string` | Sets chatbot's family|
-| `ethics` | `string` | Sets chatbot's name
-| `etype` | `string` | Sets chatbot's etype(ʙᴇᴛᴀ)|
+  | Parameter | Type | Description
+  | --- | --- | --- |
+  | `name` | `string` | Sets chatbot's name
+  | `gender` | `string` | Sets chatbot's gender|
+  | `developer_name` | `string` | Sets chatbot's developer name
+  | `user` | `string` | Put an ID here|
+  | `age` | `string` | Sets chatbot's age
+  | `birthday` | `string` | Sets chatbot's birthday|
+  | `birthplace` | `string` | Sets chatbot's birthplace
+  | `birthyear` | `string` | Sets chatbot's birthyear|
+  | `religion` | `string` | Sets chatbot's religion
+  | `actor` | `string` | Sets chatbot's favourite actor|
+  | `actress` | `string` | Sets chatbot's favourite actress
+  | `artist` | `string` | Sets chatbot's favourite artist|
+  | `author` | `string` | Sets chatbot's favourite author
+  | `band` | `string` | Sets chatbot's favourite band|
+  | `book` | `string` | Sets chatbot's favourite book
+  | `color` | `string` | Sets chatbot's favourite colour
+  | `food` | `string` | Sets chatbot's favourite food|
+  | `movie` | `string` | Sets chatbot's favourite movie
+  | `opera` | `string` | Sets chatbot's favourite opera|
+  | `season` | `string` | Sets chatbot's favourite season
+  | `show` | `string` | Sets chatbot's favourite show|
+  | `song` | `string` | Sets chatbot's favourite song(ʙᴇᴛᴀ)
+  | `sport` | `string` | Sets chatbot's favourite sport|
+  | `subject` | `string` | Sets chatbot's favourite subject
+  | `football` | `string` | Sets chatbot's favourite football team|
+  | `celebrity` | `string` | Sets chatbot's favourite celebrity|
+  | `chinesesign` | `string` | Sets chatbot's chinese sign
+  | `family` | `string` | Sets chatbot's family|
+  | `ethics` | `string` | Sets chatbot's name
+  | `etype` | `string` | Sets chatbot's etype(ʙᴇᴛᴀ)|
 
 ## Credits
 - Made by Sunny Development
