@@ -48,7 +48,7 @@ web_modules/
 # TypeScript cache
 *.tsbuildinfo
 
-# Optional npm cache directories
+# Optional npm cache directory
 .npm
 
 # Optional eslint cache
