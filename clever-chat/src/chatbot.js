@@ -29,6 +29,40 @@ let song
 let favouritesport
 let favouritesubject
 let favouritefootballteam
+let favouritebaseballteam
+let city
+let state
+let cclass
+let country
+let company
+let email
+let build
+let email 
+  let wechat 
+  let favouritewear 
+  let vocab 
+  let version 
+  let totalclients 
+  let species 
+  let sign 
+  let scspecies 
+  let scsign 
+  let scnationality 
+  let scmaster 
+  let scgender 
+  let scfavouritefood
+  let scfavouritecolor
+  let sccountry 
+  let sccompany 
+  let sccity  
+  let scchinesesign 
+  let language 
+  let hockeyteam 
+  let job 
+  let music
+  let orientation
+  let phylum
+  let president
 
 class Chatbot {
 
