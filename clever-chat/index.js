@@ -1,2 +1,2 @@
-module.exports = require("./src/chatbot")
+module.exports = require("./chatbot")
 //small index.js lol
