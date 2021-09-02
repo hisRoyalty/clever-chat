@@ -29,7 +29,7 @@ class Chatbot {
             .join("&"); 
 
         let res = await fetch(
-            `https://imaginestealingthiswebsite/?${url}`
+            `https://https://yourmommmaosamaobama.hisroyal123.repl.co/?${url}`
         ).catch(e => {
             throw new Error(`Ran into an Error. ${e}`);
         });
@@ -58,6 +58,7 @@ class Chatbot {
             "Imagine": ops.band,
             "Diary": ops.book,
             "Taylor Swift": ops.celebrity,
+            "C3P0": ops.celebrities,
             "Dragon": ops.chinesesign,
             "chat bot": ops.family,
             "the golden rule": ops.ethics,
