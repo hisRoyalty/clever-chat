@@ -31,7 +31,7 @@ npm i clever-chat
 ```javascript
 // import the package
 const Chat = require("clever-chat");
-const chat = new Chat({ name: "Put Your Chatbot Name Here", gender: "Male", developer_name: "Put Your Name Here", user: "Put an ID here" }); //put your chatbot name, chatbot gender and developer name here
+const chat = new Chat({ name: "Put Your Chatbot Name Here", gender: "Male", developer_name: "Put Your Name Here", user: "Put an ID here", language: "Put a language here" }); //all of these are REQUIRED
 
 chat.chat('Hey! How are you!').then(reply => {
   console.log(reply)
