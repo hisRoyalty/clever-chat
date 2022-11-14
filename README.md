@@ -1,6 +1,8 @@
 # Clever-Chat
 
 
+Important: PROJECT ABANDONED. AS OF NOVEMBER 2022, I HAVE ABANDONED THIS PROJECT NOT ONLY DUE TO INACTIVITY, BECAUSE THERE ISN'T ANY WORTHWHILE FEATURES TO BE ADDED. I CANNOT GUARANTEE IF IT WILL WORK FROM THEREAFTER.
+
 ![F4pEry6](https://nodei.co/npm/clever-chat.png?downloads=true&stars=true)
 
 <a href="https://www.npmjs.com/package/clever-chat">
